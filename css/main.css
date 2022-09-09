@@ -1,0 +1,9 @@
+/* Designed by SSKATE */
+
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.5/dist/web/static/pretendard-dynamic-subset.css"); /* Designed by orioncactus */
+@import url("./main.apple.css"); /* Designed by Apple */
+@import url("./special.apple.css"); /* Designed by Apple */
+
+* {
+    font-family: "Pretendard" !important;
+}
